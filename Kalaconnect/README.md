@@ -277,16 +277,52 @@ SUPABASE_SERVICE_ROLE_KEY=
 8. Send an enquiry to an artist.
 9. Contact artists through available communication options.
 
-## 9. Demonstration Screenshots
+## 9. ## 📸 Application Screenshots
 
-![Screenshot](screenshots/Screenshot2.png)
+Explore the KalaConnect platform through the screenshots below.
 
-![Screenshot](screenshots/Screenshot1.png)
+### 1. Splash Screen
+![KalaConnect Splash Screen](screenshots/splashscreen.png)
 
-![Screenshot](screenshots/Screenshot3.png)
+### 2. Home Page
+![KalaConnect Home Page](screenshots/home.png)
 
-![Screenshot](screenshots/Screenshot4.png)
+### 3. Explore
+![KalaConnect Explorey](screenshots/explore.png)
 
+### 4. Artist Dashboard
+![KalaConnect Artist Dashboard](screenshots/artistdashboard.png)
+
+### 5. Artist Portfolio
+![KalaConnect Artist Portfolio](screenshots/artistportfolio.png)
+
+### 6. Impact
+![KalaConnect Impact](screenshots/impact.png)
+
+### 7. Join us
+![KalaConnect Impact](screenshots/join.png)
+
+### 8. KalaConnect
+![KalaConnect Kalaconnect](screenshots/kalaconnect.png)
+
+
+
+
+---
+
+## 🎥 Project Demo
+
+Watch the screen recording to see how KalaConnect works, explore its features, and experience the platform's user journey.
+
+▶ **[Watch the KalaConnect Project Demo(drive link)](https://drive.google.com/file/d/1Gzd9aAdj0ihE1B-IRoYulTgSL6s6y4z5/view?usp=sharing)**
+
+
+▶ **[ KalaConnect Project Link ](https://kalaconnect-nine.vercel.app)**
+---
+
+## 🌟 Explore KalaConnect
+
+KalaConnect is designed to connect traditional Indian artists with wider audiences through digital portfolios, artwork storytelling, artist discovery, and virtual exhibitions.
 ## 10. Team Members
 
 Cerin P Arun
